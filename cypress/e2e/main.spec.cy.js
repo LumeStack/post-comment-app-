@@ -1,6 +1,6 @@
 describe('template spec', () => {
   it('Test - Branch', () => {
-    cy.visit('localhost:5173/')
+    cy.visit( 'localhost:5173/' )
     cy.get('[data-qa="profile-box"]')
     cy.get('[data-qa="comment-input"]').first().type('Test 123')
     cy.get('[data-qa="publish-button"]').first().click()
