@@ -48,6 +48,6 @@ Para criar uma versão otimizada do aplicativo para produção, execute o seguin
 npm run build
 ```
 
-Isso criará uma pasta `build` no diretório do projeto com os arquivos otimizados para produção.
+Isso criará uma pasta `build` no diretório do projeto com os arquivos otimizados para produção.ok!
 
-
+Criei uma branch 
